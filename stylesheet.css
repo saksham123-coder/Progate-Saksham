@@ -1,0 +1,402 @@
+.heading h1{
+    padding-top:10px;
+    margin-left:30px;
+    font-size:55px;
+    float:left;
+    color:white;
+   
+   
+}
+body{
+    background-attachment: fixed;
+}
+.datas{
+    background-color:rgba(138, 33, 224, 0.308);
+}
+
+.quizes{
+    background-color: rgba(17, 4, 4, 0.584);
+}
+
+.last-content{
+   padding-right:80px;
+   padding-left:80px;
+   
+   background-color:rgba(17, 4, 4, 0.784);
+}
+
+.last-content a{
+    text-decoration: none;
+}
+.last-content h1{
+    
+    font-size:25px;
+    
+    color:white;
+    
+}
+.footer-content{
+    padding-top:150px;
+    display:flex;
+    padding-left:30px;
+   
+    
+   
+}
+.last-content sub{
+    font-size: 15px;
+    
+}
+.heading sub{
+    font-size: 15px;
+}
+.heading h1,a{
+    color:white;
+}
+
+h1:hover{
+    color: red;
+}
+.background{
+    display: inherit;
+}
+ .fa{
+   padding-top:20px;
+   
+   margin-left:15px;
+   color:white;
+   font-size:20px;
+}
+.GeeksforGeeks{
+    padding-top:20px;
+    margin-left:15px;
+    text-decoration:none;
+}
+.Progate{
+    padding-top:20px;
+    margin-left:15px;
+    text-decoration:none;
+    color:whitesmoke;
+    text-shadow: purple;
+    font-size:20px;
+    
+}
+.signin{
+    padding-top:20px;
+    margin-right:65px;
+    margin-left:15px;
+    text-decoration:none;
+    color:whitesmoke;
+    text-shadow: purple;
+    font-size:20px;
+}
+.contactus{
+    padding-top:20px;
+    margin-left:15px;
+    text-decoration:none;
+    color:whitesmoke;
+    text-shadow: purple;
+    font-size:20px;
+}
+
+.Progate:hover{
+    font-size:25px;
+}
+.signin:hover{
+    font-size:25px;
+}
+.contactus:hover{
+    font-size:25px;
+}
+.fa:hover{
+    font-size:25px;
+}
+.heading a{
+    padding-top:10px;
+    float:right;
+    padding-left:10px;
+    text-decoration:none;
+    
+    }
+
+
+.languages{
+    
+    padding-top:29px;
+    margin-bottom:40px;
+    background-color:rgba(236, 100, 20, 0.253);
+    padding-bottom:29px;
+   
+    
+}
+.languages a{
+    margin-bottom:10px;
+    margin-left:10px;
+    font-weight: bolder;
+    color:navy;
+    text-decoration: none;
+    margin-bottom:20px;
+    padding:25px 18px 25px 18px;
+    
+    
+    
+}
+.codingzone a:hover{
+    background-color:rgba(233, 233, 233, 0.479);
+}
+.pro-btn{
+    color:black;
+    font-size:25px;
+    
+}
+.codingzone{
+    display:flex;
+    padding-left:120px;
+    padding-top:150px;
+    
+}
+button{
+  
+   border-radius:15px 15px 15px 15px;
+   border:none;
+   cursor: pointer;
+   background-color: white;
+   font-style: italic;
+   font-size:25px;
+   padding-top:25px;
+   padding-right:25px;
+   padding-left:30px;
+   background-color:goldenrod;
+   padding-bottom:25px;
+   width:250px;
+    
+}
+
+.finaly{
+    text-align:left;
+    
+    padding-top: 100px;
+}
+
+button:hover{
+    background-color: lightskyblue;
+}
+
+
+.subs{
+    width:10%;
+}
+.sub-content:hover{
+   
+   border:none;
+}
+
+.in-cont{
+    
+    padding-left:40px;
+    padding-top:30px;
+    
+    
+}
+.in-conts{
+   
+    padding-left:40px;
+    padding-top:40px;
+    
+    
+}
+.finaly{
+    
+    padding-bottom:80px;
+    margin-left:10px;
+    width:15%;
+    
+}
+.iframe1 iframe{
+    
+    float:right;
+    width:250px;
+    height:1300px;
+    border: none;
+    scroll-behavior:unset;
+    padding-right:20px;
+    margin-top:80px;
+
+}
+.video{
+    display:flex;
+    background-color: rgba(233, 233, 233, 0.415);
+}
+.iframe2 iframe{
+    float:right;
+    width:880px;
+    height:1240px;
+    border:none;
+    scroll-behavior:unset;
+    
+    margin-top:80px;
+}
+.iframe3 iframe{
+    border:none;
+    margin-left:60px;
+    margin-top: 30px;
+}
+.videos{
+    margin-top:180px;
+    
+   
+}
+.sub-content{
+    border:1px solid black;
+    border-width: medium;
+    border-radius: 55px 55px 55px 55px;
+    background-color:rgba(236, 42, 227, 0.259);
+   
+
+}
+.sub-content img{
+    margin-top: 20px;
+    margin-left:40px;
+    
+   
+}
+
+.subs a {
+    margin-left:50px;
+    text-decoration: none;
+    color:blue;
+    font-weight: bolder;
+}
+
+.input{
+    margin-top:40px;
+    margin-left:350px;
+    
+    height:20px;
+    
+    
+}
+input{
+    padding-top: 5px;
+    padding-bottom:5px;
+}
+.input a{
+    padding-right:20px;
+    padding-left: 20px;
+    
+    padding-bottom:7.5px;
+    padding-top:6px;
+    text-decoration: none;
+    border:1px groove black;
+    background-color:grey;
+    color:white;
+    
+}
+.iframe3 p{
+    font-weight: bold;
+    font-size:15px;
+}
+.input a:hover{
+    padding-right:21px;
+    padding-left:21px ;
+}
+img{
+    box-sizing: border-box;
+    height:100px;
+    width:100px;
+}
+.article{
+    margin-top:35px;
+    margin-right:30px;
+    border:1px solid black;
+    border-radius: 20px 20px 20px 20px;
+    background-color:rgba(233, 233, 233, 0.684);
+    
+}
+.articles{
+    padding-top:40px;
+}
+.article:hover{
+    padding:5px 2px 5px 2px;
+    background-color: white;
+}
+.article a{
+    color:green;
+
+}
+li{
+    color:white;
+}
+.last-content p{
+    color: white;
+    font-weight: bold;
+}
+h2{
+    text-align:center;
+    color:oldlace;
+}
+h3{
+    margin-left:50px;
+    color:white;
+    font-weight: bolder;
+    padding-bottom:30px;
+    border-bottom: 1px solid white;
+    margin-bottom: 30px;
+}
+th {
+    text-align: left;
+  }
+
+table, th, td{
+    border: 1px solid black;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 15px;
+    background-color: white;
+}  
+table {
+    margin-left:150px;
+    margin-top:130px;
+    
+  }
+table a{
+    color:black;
+}
+
+label{
+    display:flex;
+    
+}
+form{
+    margin-top:200px;
+    margin-left:600px;
+    margin-right:600px;
+    padding-right: 40px;
+    padding-left:20px;
+
+}
+input{
+    border:1px solid black;
+}
+.quizes li{
+    color:blue;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.quizes h1{
+    color:white;
+}
+.quizes{
+    padding-bottom:10px;
+}
+.form form{
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    padding-top:20px;
+    border-radius: 25px 25px 25px 25px;
+}
